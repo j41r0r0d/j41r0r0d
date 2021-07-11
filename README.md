@@ -1,0 +1,4 @@
+- Hi, I’m @j41r0r0d computer engineer with a bast experience on industrial controls and automation and OT Cybersecurity
+- I’m interested in OT cybersecurity automation tools and system vulnerabilities detection across industrial networks
+- 📫  jairo.rodriguez@cyb3r53c.com
+- https://cyb3r53c.com
